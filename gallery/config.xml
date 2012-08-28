@@ -1,0 +1,504 @@
+<gallery>
+
+
+     <settings>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <imageScaleMode>fill</imageScaleMode>
+          <frameColor>16777215</frameColor>
+          <dropShadow>1</dropShadow>
+          <captionBackgroundAlpha>34</captionBackgroundAlpha>
+          <buttonsBackgroundCornerRadius>6</buttonsBackgroundCornerRadius>
+          <translation>
+
+
+
+
+
+
+
+               <Of>από</Of>
+               <Images>Εικόνες</Images>
+               <LoadingImage>Φορτωση εικόνας</LoadingImage>
+               <Close>Κλείσιμο</Close>
+               <Album>Συλλογή</Album>
+               <Image>Εικόνα</Image>
+               <Albums>Συλλογές</Albums>
+               <BackToAlbums>Πίσω στις συλλογές</BackToAlbums>
+          </translation>
+          <slideshowDelay>4</slideshowDelay>
+          <captionBackgroundCornerRadius>6</captionBackgroundCornerRadius>
+          <cornerRadius>7</cornerRadius>
+          <showAlbumsButton>1</showAlbumsButton>
+          <initialState>Show Albums</initialState>
+          <panelBackgroundAlpha>43</panelBackgroundAlpha>
+          <rotationDuration>700</rotationDuration>
+          <useEmbeddedFont>0</useEmbeddedFont>
+          <frameSize>5</frameSize>
+          <background>
+
+               <transparentBG>1</transparentBG>
+               <bgColor>16777215</bgColor>
+          </background>
+          <fontName>Trebuchet MS</fontName>
+          <rotationDirection>Vertical CW</rotationDirection>
+          <showCaption>always</showCaption>
+          <backgroundColor>11191768</backgroundColor>
+          <iconPadding>10</iconPadding>
+          <showButtons>Always</showButtons>
+          <showSlideshowButton>1</showSlideshowButton>
+          <useRotation>1</useRotation>
+          <buttonsBackgroundAlpha>41</buttonsBackgroundAlpha>
+          <iconHeight>55</iconHeight>
+          <fontSize>10</fontSize>
+          <iconWidth>90</iconWidth>
+          <showNavigationButton>1</showNavigationButton>
+          <showThumbnailsButton>1</showThumbnailsButton>
+     </settings>
+     <galleryName>Zen Gallery</galleryName>
+     <albums>
+          <album>
+
+               <description>ΜΑΓΕΙΡΙΚΗ</description>
+               <items>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album1/t1.jpg</thumb>
+                         <source>gallery/images/album1/1.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album1/t2.jpg</thumb>
+                         <source>gallery/images/album1/2.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album1/t3.jpg</thumb>
+                         <source>gallery/images/album1/3.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album1/t4.jpg</thumb>
+                         <source>gallery/images/album1/4.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album1/t5.jpg</thumb>
+                         <source>gallery/images/album1/5.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album1/t6.jpg</thumb>
+                         <source>gallery/images/album1/6.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album1/t7.jpg</thumb>
+                         <source>gallery/images/album1/7.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album1/t8.jpg</thumb>
+                         <source>gallery/images/album1/8.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album1/t9.jpg</thumb>
+                         <source>gallery/images/album1/9.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album1/t10.jpg</thumb>
+                         <source>gallery/images/album1/10.jpg</source>
+                    </item>
+               </items>
+          </album>
+          <album>
+
+               <description>ΟΡΟΦΟΚΟΜΙΑ</description>
+               <items>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t1.jpg</thumb>
+                         <source>gallery/images/album2/1.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t2.jpg</thumb>
+                         <source>gallery/images/album2/2.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t3.jpg</thumb>
+                         <source>gallery/images/album2/3.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t4.jpg</thumb>
+                         <source>gallery/images/album2/4.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t5.jpg</thumb>
+                         <source>gallery/images/album2/5.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t6.jpg</thumb>
+                         <source>gallery/images/album2/6.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t7.jpg</thumb>
+                         <source>gallery/images/album2/7.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t8.jpg</thumb>
+                         <source>gallery/images/album2/8.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t9.jpg</thumb>
+                         <source>gallery/images/album2/9.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t10.jpg</thumb>
+                         <source>gallery/images/album2/10.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t11.jpg</thumb>
+                         <source>gallery/images/album2/11.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t12.jpg</thumb>
+                         <source>gallery/images/album2/12.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t13.jpg</thumb>
+                         <source>gallery/images/album2/13.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album2/t14.jpg</thumb>
+                         <source>gallery/images/album2/14.jpg</source>
+                    </item>
+               </items>
+          </album>
+          <album>
+
+               <description>ΠΛΗΡΟΦΟΡΙΚΗ</description>
+               <items>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t1.jpg</thumb>
+                         <source>gallery/images/album3/1.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t2.jpg</thumb>
+                         <source>gallery/images/album3/2.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t3.jpg</thumb>
+                         <source>gallery/images/album3/3.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t4.jpg</thumb>
+                         <source>gallery/images/album3/4.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t5.jpg</thumb>
+                         <source>gallery/images/album3/5.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t6.jpg</thumb>
+                         <source>gallery/images/album3/6.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t7.jpg</thumb>
+                         <source>gallery/images/album3/7.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t8.jpg</thumb>
+                         <source>gallery/images/album3/8.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t9.jpg</thumb>
+                         <source>gallery/images/album3/9.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t10.jpg</thumb>
+                         <source>gallery/images/album3/10.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t11.jpg</thumb>
+                         <source>gallery/images/album3/11.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t12.jpg</thumb>
+                         <source>gallery/images/album3/12.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t13.jpg</thumb>
+                         <source>gallery/images/album3/13.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t14.jpg</thumb>
+                         <source>gallery/images/album3/14.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t15.jpg</thumb>
+                         <source>gallery/images/album3/15.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t16.jpg</thumb>
+                         <source>gallery/images/album3/16.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t17.jpg</thumb>
+                         <source>gallery/images/album3/17.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album3/t18.jpg</thumb>
+                         <source>gallery/images/album3/18.jpg</source>
+                    </item>
+               </items>
+          </album>
+          <album>
+
+               <description> Beauty &amp; Spa</description>
+               <items>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album4/t1.jpg</thumb>
+                         <source>gallery/images/album4/1.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album4/t2.jpg</thumb>
+                         <source>gallery/images/album4/2.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album4/t3.jpg</thumb>
+                         <source>gallery/images/album4/3.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album4/t4.jpg</thumb>
+                         <source>gallery/images/album4/4.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album4/t5.jpg</thumb>
+                         <source>gallery/images/album4/5.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album4/t6.jpg</thumb>
+                         <source>gallery/images/album4/6.jpg</source>
+                    </item>
+               </items>
+          </album>
+          <album>
+
+               <description> Manicure – Pedicure</description>
+               <items>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album5/t1.jpg</thumb>
+                         <source>gallery/images/album5/1.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album5/t2.jpg</thumb>
+                         <source>gallery/images/album5/2.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album5/t3.jpg</thumb>
+                         <source>gallery/images/album5/3.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album5/t4.jpg</thumb>
+                         <source>gallery/images/album5/4.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album5/t5.jpg</thumb>
+                         <source>gallery/images/album5/5.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album5/t6.jpg</thumb>
+                         <source>gallery/images/album5/6.jpg</source>
+                    </item>
+                    <item>
+
+
+
+                         <thumb>gallery/images/album5/t7.jpg</thumb>
+                         <source>gallery/images/album5/7.jpg</source>
+                    </item>
+               </items>
+          </album>
+     </albums>
+</gallery>
